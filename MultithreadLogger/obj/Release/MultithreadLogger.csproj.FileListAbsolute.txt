@@ -1,0 +1,6 @@
+c:\users\vlad\documents\visual studio 2015\Projects\ВDailyTask\MultithreadLogger\bin\Release\MultithreadLogger.exe.config
+c:\users\vlad\documents\visual studio 2015\Projects\ВDailyTask\MultithreadLogger\bin\Release\MultithreadLogger.exe
+c:\users\vlad\documents\visual studio 2015\Projects\ВDailyTask\MultithreadLogger\bin\Release\MultithreadLogger.pdb
+c:\users\vlad\documents\visual studio 2015\Projects\ВDailyTask\MultithreadLogger\obj\Release\MultithreadLogger.exe
+c:\users\vlad\documents\visual studio 2015\Projects\ВDailyTask\MultithreadLogger\obj\Release\MultithreadLogger.pdb
+c:\users\vlad\documents\visual studio 2015\Projects\ВDailyTask\MultithreadLogger\obj\Release\MultithreadLogger.csprojResolveAssemblyReference.cache

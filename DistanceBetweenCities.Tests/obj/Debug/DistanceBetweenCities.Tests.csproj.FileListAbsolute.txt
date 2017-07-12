@@ -1,0 +1,13 @@
+c:\users\vlad\documents\visual studio 2015\Projects\ВDailyTask\DistanceBetweenCities.Tests\bin\Debug\DistanceBetweenCities.Tests.dll
+c:\users\vlad\documents\visual studio 2015\Projects\ВDailyTask\DistanceBetweenCities.Tests\bin\Debug\DistanceBetweenCities.Tests.pdb
+c:\users\vlad\documents\visual studio 2015\Projects\ВDailyTask\DistanceBetweenCities.Tests\bin\Debug\Microsoft.Pex.Framework.dll
+c:\users\vlad\documents\visual studio 2015\Projects\ВDailyTask\DistanceBetweenCities.Tests\bin\Debug\ВDailyTask.exe
+c:\users\vlad\documents\visual studio 2015\Projects\ВDailyTask\DistanceBetweenCities.Tests\bin\Debug\Microsoft.ExtendedReflection.Reasoning.dll
+c:\users\vlad\documents\visual studio 2015\Projects\ВDailyTask\DistanceBetweenCities.Tests\bin\Debug\Microsoft.ExtendedReflection.dll
+c:\users\vlad\documents\visual studio 2015\Projects\ВDailyTask\DistanceBetweenCities.Tests\bin\Debug\ВDailyTask.pdb
+c:\users\vlad\documents\visual studio 2015\Projects\ВDailyTask\DistanceBetweenCities.Tests\bin\Debug\Microsoft.Pex.Framework.xml
+c:\users\vlad\documents\visual studio 2015\Projects\ВDailyTask\DistanceBetweenCities.Tests\bin\Debug\ru\Microsoft.Pex.Framework.resources.dll
+c:\users\vlad\documents\visual studio 2015\Projects\ВDailyTask\DistanceBetweenCities.Tests\bin\Debug\ru\Microsoft.ExtendedReflection.resources.dll
+c:\users\vlad\documents\visual studio 2015\Projects\ВDailyTask\DistanceBetweenCities.Tests\obj\Debug\DistanceBetweenCities.Tests.csprojResolveAssemblyReference.cache
+c:\users\vlad\documents\visual studio 2015\Projects\ВDailyTask\DistanceBetweenCities.Tests\obj\Debug\DistanceBetweenCities.Tests.dll
+c:\users\vlad\documents\visual studio 2015\Projects\ВDailyTask\DistanceBetweenCities.Tests\obj\Debug\DistanceBetweenCities.Tests.pdb

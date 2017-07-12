@@ -1,0 +1,6 @@
+c:\users\vlad\documents\visual studio 2015\Projects\ВDailyTask\ВDailyTask\bin\Debug\ВDailyTask.exe.config
+c:\users\vlad\documents\visual studio 2015\Projects\ВDailyTask\ВDailyTask\bin\Debug\ВDailyTask.exe
+c:\users\vlad\documents\visual studio 2015\Projects\ВDailyTask\ВDailyTask\bin\Debug\ВDailyTask.pdb
+c:\users\vlad\documents\visual studio 2015\Projects\ВDailyTask\ВDailyTask\obj\Debug\ВDailyTask.exe
+c:\users\vlad\documents\visual studio 2015\Projects\ВDailyTask\ВDailyTask\obj\Debug\ВDailyTask.pdb
+c:\users\vlad\documents\visual studio 2015\Projects\ВDailyTask\ВDailyTask\obj\Debug\DistanceBetweenCities.csprojResolveAssemblyReference.cache
