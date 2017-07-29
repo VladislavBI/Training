@@ -1,0 +1,12 @@
+c:\users\vlad\documents\visual studio 2015\Projects\ВDailyTask\FetchCurrentWeather\bin\Debug\FetchCurrentWeather.exe.config
+c:\users\vlad\documents\visual studio 2015\Projects\ВDailyTask\FetchCurrentWeather\bin\Debug\FetchCurrentWeather.exe
+c:\users\vlad\documents\visual studio 2015\Projects\ВDailyTask\FetchCurrentWeather\bin\Debug\FetchCurrentWeather.pdb
+c:\users\vlad\documents\visual studio 2015\Projects\ВDailyTask\FetchCurrentWeather\obj\Debug\FetchCurrentWeather.csprojResolveAssemblyReference.cache
+c:\users\vlad\documents\visual studio 2015\Projects\ВDailyTask\FetchCurrentWeather\obj\Debug\FetchCurrentWeather.exe
+c:\users\vlad\documents\visual studio 2015\Projects\ВDailyTask\FetchCurrentWeather\obj\Debug\FetchCurrentWeather.pdb
+D:\VSProjects\Projects\ВDailyTask\FetchCurrentWeather\obj\Debug\FetchCurrentWeather.csprojResolveAssemblyReference.cache
+D:\VSProjects\Projects\ВDailyTask\FetchCurrentWeather\obj\Debug\FetchCurrentWeather.exe
+D:\VSProjects\Projects\ВDailyTask\FetchCurrentWeather\obj\Debug\FetchCurrentWeather.pdb
+D:\VSProjects\Projects\ВDailyTask\FetchCurrentWeather\bin\Debug\FetchCurrentWeather.exe.config
+D:\VSProjects\Projects\ВDailyTask\FetchCurrentWeather\bin\Debug\FetchCurrentWeather.exe
+D:\VSProjects\Projects\ВDailyTask\FetchCurrentWeather\bin\Debug\FetchCurrentWeather.pdb
