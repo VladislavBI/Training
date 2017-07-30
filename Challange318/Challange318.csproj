@@ -42,8 +42,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GameFactory.cs" />
+    <Compile Include="MathOperation\AddMathOperation.cs" />
+    <Compile Include="MathOperation\DivideMathOperation.cs" />
+    <Compile Include="MathOperation\IMathOperation.cs" />
+    <Compile Include="InputGetter.cs" />
+    <Compile Include="IInputParser.cs" />
+    <Compile Include="IntBlindGameFactory.cs" />
+    <Compile Include="IntWhiteSpaceInputParser.cs" />
+    <Compile Include="IResultCalculate.cs" />
+    <Compile Include="JustIntegerInputGetter.cs" />
+    <Compile Include="MathOperation\MultiplicationMathOperation.cs" />
+    <Compile Include="MathOperation\SubstractMathOperation.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RandomIntResultCalculator.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

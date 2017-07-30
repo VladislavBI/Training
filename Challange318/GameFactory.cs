@@ -8,9 +8,9 @@ namespace Challange318
 {
     public abstract class GameFactory
     {
-        public abstract IInputGetter CreateInputGetter();
+        public abstract InputGetter CreateInputGetter();
         public abstract IInputParser CreateInputParser();
-        public abstract ICalculateInterprener CreateCalculateInterprener();
+        public abstract IResultCalculator CreateResultCalculator();
 
     }
 }

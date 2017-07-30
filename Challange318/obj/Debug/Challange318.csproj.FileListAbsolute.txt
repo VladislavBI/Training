@@ -1,0 +1,6 @@
+D:\VSProjects\Projects\ВDailyTask\Challange318\bin\Debug\Challange318.exe.config
+D:\VSProjects\Projects\ВDailyTask\Challange318\bin\Debug\Challange318.exe
+D:\VSProjects\Projects\ВDailyTask\Challange318\bin\Debug\Challange318.pdb
+D:\VSProjects\Projects\ВDailyTask\Challange318\obj\Debug\Challange318.csprojResolveAssemblyReference.cache
+D:\VSProjects\Projects\ВDailyTask\Challange318\obj\Debug\Challange318.exe
+D:\VSProjects\Projects\ВDailyTask\Challange318\obj\Debug\Challange318.pdb

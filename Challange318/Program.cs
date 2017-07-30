@@ -8,40 +8,17 @@ namespace Challange318
 {
     class Program
     {
-        private static int figureToCalculate;
-
         static void Main(string[] args)
         {
-            Console.WriteLine("input 5 characters separated by whitespace");
-            string[] userInputs=Console.ReadLine().Split(' ');
-            List<int> dataToCalculate = new List<int>();
-
-            foreach (var userInput in userInputs)
-            {
-                if (Int32.TryParse(userInput, out figureToCalculate))
-                {
-                    dataToCalculate.Add(figureToCalculate);
-                }
-                else
-                {
-                    throw new WrongInputException(userInput + " is not integer");
-                }
-            }
-        }
-    }
-    class WrongInputException:Exception
-    {
-        public WrongInputException()
-        {
-                
-        }
-        public WrongInputException(string message):base(message)
-        {
+            GameFactory abstractGameFactory = new IntBlindGameFactory();
+            var getter = abstractGameFactory.CreateInputGetter();
+            Console.WriteLine(getter.GetInputRuleMessage());
             
-        }
-        public WrongInputException(string message, Exception inner):base(message, inner)
-        {
+            var parser = abstractGameFactory.CreateInputParser();
+            var parsedData = parser.GetParsedUserInput(getter.GetUserInput());
 
-        }  
+            var calculator = abstractGameFactory.CreateResultCalculator();
+            Console.WriteLine(calculator.GetCalculationFullExpresion(parsedData));
+        }
     }
 }
