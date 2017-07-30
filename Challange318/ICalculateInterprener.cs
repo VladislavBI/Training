@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FetchCurrentWeather
+namespace Challange318
 {
-    public interface IWeatherParser
+    public interface ICalculateInterprener
     {
-        void GetWeatherForRegion(string regionCode);
     }
 }

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistanceBetweenCities", "ВDailyTask\DistanceBetweenCities.csproj", "{79B2AC3A-9D56-431F-90B4-746BF6D759B1}"
 EndProject
@@ -16,6 +16,10 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FetchCurrentWeatherTask", "FetchCurrentWeatherTask", "{4050D18C-B5AD-4ED6-8003-346D092CCEC1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FetchCurrentWeather", "FetchCurrentWeather\FetchCurrentWeather.csproj", "{C4279AA4-EF48-47D2-97F4-DD14E6DF016F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challange318", "Challange318\Challange318.csproj", "{414FA6C7-BFBD-49EA-AC8B-5DFAECB06318}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{A6551EB1-8E77-47A7-876C-A103D35344C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,10 @@ Global
 		{C4279AA4-EF48-47D2-97F4-DD14E6DF016F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4279AA4-EF48-47D2-97F4-DD14E6DF016F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4279AA4-EF48-47D2-97F4-DD14E6DF016F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{414FA6C7-BFBD-49EA-AC8B-5DFAECB06318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{414FA6C7-BFBD-49EA-AC8B-5DFAECB06318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{414FA6C7-BFBD-49EA-AC8B-5DFAECB06318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{414FA6C7-BFBD-49EA-AC8B-5DFAECB06318}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -9,10 +9,12 @@ namespace FetchCurrentWeather
     class Program
     {
         static void Main(string[] args)
-        {           
-            UazipnetRegionParser p = new UazipnetRegionParser();
+        {
+            IRegionParser regionParser = new UazipnetRegionParser();
             IWeatherCodeGetter weatherCodeGenerator = new GismeteoWeatherCodeGetter();
-            var weatherCode = weatherCodeGenerator.GetCodeForCityName(p.GetParsedRegion("61105"));
+            var weatherCode = weatherCodeGenerator.GetCodeForCityName(regionParser.GetParsedRegion("61105"));
+            IWeatherParser weatherParser = new GismeteoUAWetherParser();
+            weatherParser.GetWeatherForRegion(weatherCode);
         }
     }
 }
